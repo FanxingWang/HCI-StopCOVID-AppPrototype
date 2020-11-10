@@ -20,7 +20,20 @@ The world as we know it has changed and we are living in unprecedented and uncer
 
 ## Desirable Functionlities
 
+1. Users can upload their diagnosis. If the user is diagnosed as positive and has not yet recovered, the application will generate a QR Code. Other users who have installed our application can read nearby QR Codes and the cell phone will vibrate if there are infected users nearby.
 
+2. Maybe in the future, when the technology is mature enough, users can test by themselves (Mobile kit, the sound of cough, etc.)
 
+3. The application can automatically read and store the destinations the user has visited in the past one month, which can help the domain experts to do epidemiological source tracking investigation.
 
+4. Users can provide supplies and food assistance to people in need through our platform
 
+5. Users can add friends and the system will alert them if their family members or friends are infected.
+
+## Links
+
+Github Repository: 
+
+Figma Link:
+
+Demo Video Link:
