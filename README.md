@@ -18,4 +18,9 @@ The world as we know it has changed and we are living in unprecedented and uncer
 
 ![Assignment 1_ Covid-19 Prototype](https://user-images.githubusercontent.com/38800916/98721829-f2108900-235e-11eb-8415-d2e0abad9ed3.jpg)
 
+## Desirable Functionlities
+
+
+
+
 
