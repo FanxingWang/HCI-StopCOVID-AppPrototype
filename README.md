@@ -1,1 +1,2 @@
-# HCI-StopCOVID-AppPrototype
+# Stop COVID-19 App
+
