@@ -32,8 +32,10 @@ The world as we know it has changed and we are living in unprecedented and uncer
 
 ## Links
 
-Github Repository: 
+GitHub Repository: https://github.com/FanxingWang/HCI-StopCOVID-AppPrototype
 
-Figma Link:
+Figma Link: https://www.figma.com/file/e2Gm0Yrq5TwIVm7vVD66ZT/Assignment-1_-Covid-19-Prototype?node-id=0%3A1
 
 Demo Video Link:
+
+
